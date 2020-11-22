@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 🔭 I’m currently working with Web aplications (Backend + Frontend), Frontend with ReactJs & Vuejs. 
 I am focused on learning more about clean architecture with typescript + Tdd + kubernetes if you are also interested in * some of these technologies follow me to be part of the latest news.<br><br>
  </p>
+ 
 ⚡ My Skills <br><br>
+
+<p>
   <img src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg" width="20px" height="20px"/>
  <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" width="20px" height="20px"/>
  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> 
@@ -32,6 +35,7 @@ I am focused on learning more about clean architecture with typescript + Tdd + k
  <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/> 
  <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/postgres-original-wordmark.svg" alt="mysql" width="20" height="20"/> 
  <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="20" height="20"/> 
+ </p>
 <br> 
 
 <p align="center">
