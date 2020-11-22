@@ -52,7 +52,7 @@ I am focused on learning more about Clean Architecture with Typescript + Tdd + M
  <br>  <br> 
  
  <p>
-  # some of my latest works (screenshots)
+  **some of my latest works** 
  </p>
 <div>
    ...
