@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 -->
 <br>
  <p>
-🔭 I’m currently working with Web aplications (Backend + Frontend), Frontend with ReactJs & Vuejs. 
-I am focused on learning more about clean architecture with typescript + Tdd + kubernetes if you are also interested in * some of these technologies follow me to be part of the latest news.<br><br>
+🔭 I’m currently working with Web aplications (Backend + Frontend), Frontend with Reactjs & Vuejs and Backend with Expressjs & Adonisjs. 
+I am focused on learning more about Clean Architecture with Typescript + Tdd + Microservices + Kubernetes if you are also interested in some of these technologies follow me to be part of the latest news.<br><br>
  </p>
  
-⚡ My Skills <br><br>
+⚡ My Skills <br>
 
 <p>
   <img src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg" width="20px" height="20px"/>
