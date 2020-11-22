@@ -33,12 +33,11 @@ I am focused on learning more about clean architecture with typescript + Tdd + k
  <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="20" height="20"/> 
  <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="20" height="20"/> 
  <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/> 
- <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/postgres-original-wordmark.svg" alt="mysql" width="20" height="20"/> 
  <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="20" height="20"/> 
  </p>
 <br> 
 
-<p align="center">
+<p >
 📫 How to reach me: <br><br>
  <a href="mailto:nicasiomarques18@gmail.com">
      <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-circle&logo=Gmail&logoColor=white"/>
