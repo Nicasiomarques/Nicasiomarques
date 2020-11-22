@@ -51,7 +51,7 @@ I am focused on learning more about Clean Architecture with Typescript + Tdd + M
 </p>
  <br>  <br> 
  
- <p align="center">
+ <p>
   # some of my latest works (screenshots)
  </p>
 <div>
