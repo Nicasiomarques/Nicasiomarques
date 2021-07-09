@@ -5,6 +5,13 @@
 I am focused on learning more about Clean Architecture with Typescript + Tdd + Microservices + Kubernetes if you are also interested in some of these technologies follow me to be part of the latest news.<br><br>
  </p>
  
+  <div>
+  <a href="https://github.com/nicasiomarques">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicasiomarques&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicasiomarques&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+ 
+ 
 ⚡ My Skills <br>
 
 <p>
@@ -36,7 +43,7 @@ I am focused on learning more about Clean Architecture with Typescript + Tdd + M
      <img src="https://img.shields.io/badge/-Github-000?style=flat-circle&logo=Github&logoColor=white"/>
  </a>
  
-  <img alt="illustration" align="right" width="300"  src="https://user-images.githubusercontent.com/16815826/116787188-b5feeb00-aa9a-11eb-86cb-ae9b8007b7b8.png"/>
+<img alt="illustration" align="right" width="300"  src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif"/>
 </p>
 <div>
 </div>
