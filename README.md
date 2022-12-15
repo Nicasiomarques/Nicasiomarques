@@ -36,7 +36,7 @@ I am focused on learning more about Clean Architecture with Typescript + Tdd + M
  <a href="mailto:nicasiomarques18@gmail.com">
      <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-circle&logo=Gmail&logoColor=white"/>
  </a>
- <a href="https://www.linkedin.com/in/nicasio-marques-70320a182">
+ <a href="https://www.linkedin.com/in/nicasio-silva-70320a182">
      <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-circle&logo=Linkedin&logoColor=white"/>
  </a>
  <a href="https://github.com/Nicasiomarques">
